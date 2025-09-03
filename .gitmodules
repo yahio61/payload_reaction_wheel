@@ -1,0 +1,3 @@
+[submodule "Drivers/libs/bmi_088"]
+	path = Drivers/libs/bmi_088
+	url = https://github.com/yahio61/bmi_088_library

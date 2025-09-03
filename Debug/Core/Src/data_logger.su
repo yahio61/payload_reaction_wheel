@@ -1,0 +1,2 @@
+../Core/Src/data_logger.c:19:6:data_logger_init	312	static
+../Core/Src/data_logger.c:31:6:log_datas	360	static
